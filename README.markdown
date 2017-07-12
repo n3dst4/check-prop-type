@@ -6,7 +6,7 @@ Run a prop type against a value and return any warnings
 ## Installation
 
 ```sh
-npm install check-prop-type --save
+npm install check-prop-type --save 
 ```
 
 
