@@ -1,12 +1,14 @@
 # check-prop-type
 
+![Travis Status](https://travis-ci.org/n3dst4/check-prop-type.svg?branch=master)
+
 Run a prop type against a value and return any warnings
 
 
 ## Installation
 
 ```sh
-npm install check-prop-type --save 
+npm install check-prop-type --save
 ```
 
 
