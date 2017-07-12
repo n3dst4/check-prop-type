@@ -1,0 +1,9 @@
+{
+  "generator-n3dst4-package": {
+    "babel": true,
+    "name": "check-prop-type",
+    "camelName": "checkPropType",
+    "shortName": "check-prop-type",
+    "description": "Run a prop type against a value and return any warnings"
+  }
+}
